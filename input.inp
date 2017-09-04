@@ -1,0 +1,2 @@
+InitialCondition	NFX		TargetTime		CFL
+5					100		0.012			0.6
